@@ -1,0 +1,5 @@
+cidr ipversion date proof
+
+example:
+123.123.123.0/24 4 2024-04-24|23:12:55 https://raw.githubusercontent.com/wildyshev/IP-Blacklist/main/reason/a82a3138-97c7-4d08-a941-901b6b7170d0.pdf
+2001:db8::/32 6 2024-04-24|23:12:55 https://raw.githubusercontent.com/wildyshev/IP-Blacklist/main/reason/a82a3138-97c7-4d08-a941-901b6b7170d0.pdf
